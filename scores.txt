@@ -1,0 +1,6 @@
+@relation sentenceScores
+@attribute 'tfIdfScore' real
+@data
+0.2
+0.3
+0.4
